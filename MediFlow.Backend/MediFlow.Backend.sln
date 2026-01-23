@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0F6BDF19-AFC1-4983-85C3-3654E779BD04}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{7FE0C95D-B43D-484B-9567-8DC5D645D012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediFlow.Backend.Api", "MediFlow.Backend.Api\MediFlow.Backend.Api.csproj", "{EB427AF8-90BB-4554-89F7-D75C82996C2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EB427AF8-90BB-4554-89F7-D75C82996C2B} = {0F6BDF19-AFC1-4983-85C3-3654E779BD04}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB427AF8-90BB-4554-89F7-D75C82996C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB427AF8-90BB-4554-89F7-D75C82996C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB427AF8-90BB-4554-89F7-D75C82996C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB427AF8-90BB-4554-89F7-D75C82996C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
